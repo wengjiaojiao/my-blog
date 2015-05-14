@@ -160,7 +160,7 @@ git config --global user.email email@email.com</pre>
     <span style="font-size: 24px;">三、SSH Key的配置</span>
 </h3>
 <p>
-    <span style="font-size: 18px;">1.查一下电脑上是否已有了SSH目录</span>
+    <span style="font-size: 18px;">1.查一下电脑上的SSH目录</span>
 </p>
 <pre class="brush:shell;toolbar: true; auto-links: false;"> ls -al的~/ .ssh</pre>
 <p>
@@ -185,7 +185,7 @@ git config --global user.email email@email.com</pre>
     <br/><span style="font-size: 18px; font-family: Consolas, 微软雅黑, monospace, Verdana, sans-serif, 宋体; line-height: 18px; background-color: rgb(246, 246, 246);"></span>
 </p>
 <p>
-    <span style="font-size: 18px;">4.把SSH key添加到你的账户</span>
+    <span style="font-size: 18px;">4.添加SSH Key到账户</span>
 </p>
 <pre class="brush:shell;toolbar: true; auto-links: false;"> sudo apt-get install xclip
  xclip -sel clip &lt; ~/.ssh/id_rsa.pub</pre>
