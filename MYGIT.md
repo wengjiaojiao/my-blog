@@ -1,3 +1,4 @@
+#git初体验
 <blockquote>
     <p>
         <span style="font-size: 18px;">Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.</span>
@@ -42,9 +43,9 @@
         </tr>
     </tbody>
 </table>
-<h2>
+<h3>
     一、git的配置
-</h2>
+</h3>
 <p>
     <span style="font-size: 18px;">1.git下载安装之后，先要对它进行一个简单的配置，告诉git你的名字和邮箱，这样它就<span style="font-size: 16px;">能知道自己的主人是谁了。</span></span>
 </p>
@@ -80,9 +81,9 @@ git config --global user.email email@email.com</pre>
 <p>
     <span style="font-size: 18px;">做完了基本操作，我们就要用git进行对文件的一系列操作。</span>
 </p>
-<h2>
+<h3>
     <span style="font-size: 24px;">二、git和github的基本操作</span>
-</h2>
+</h3>
 <p>
     <span style="font-size: 18px;">首先，你需要创建一个新的空的github 知识库，用来存放你将要上传到服务器上的文件。</span>
 </p>
@@ -155,9 +156,9 @@ git config --global user.email email@email.com</pre>
 <p>
     <span style="font-size: 18px;">那我们就来说说SSH的配置吧。</span>
 </p>
-<h2>
+<h3>
     <span style="font-size: 24px;">三、SSH Key的配置</span>
-</h2>
+</h3>
 <p>
     <span style="font-size: 18px;">1.查一下电脑上是否已有了SSH目录</span>
 </p>
