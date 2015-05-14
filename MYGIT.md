@@ -141,7 +141,7 @@ git config --global user.email email@email.com</pre>
     <span style="font-size: 18px;"><br/></span>
 </p>
 <p>
-    <span style="font-size: 18px;">6.告诉git把准备好的commit push到哪里 ，</span>
+    <span style="font-size: 18px;">6.将文件push到github上 ，</span>
 </p>
 <pre class="brush:shell;toolbar: true; auto-links: false;">git push -u origin master</pre>
 <p>
