@@ -47,12 +47,12 @@
     一、git的配置
 </h3>
 <p>
-    <span style="font-size: 18px;">1.git下载安装之后，先要对它进行一个简单的配置，告诉git你的名字和邮箱，这样它就<span style="font-size: 16px;">能知道自己的主人是谁了。</span></span>
+    <span style="font-size: 18px;">1.git下载安装之后，进行全局变量的配置，告诉git你的名字和邮箱，这样它就<span style="font-size: 16px;">能知道自己的主人是谁了。</span></span>
 </p>
 <pre class="brush:shell;toolbar: true; auto-links: false;">git config --global user.name&quot;name&quot;
 git config --global user.email email@email.com</pre>
 <p>
-    <span style="font-size: 18px;">（global代表全局变量，还有一个locate）</span>
+    <span style="font-size: 18px;"></span>
 </p>
 <p>
     <span style="font-size: 18px;"><br/></span>
