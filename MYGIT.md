@@ -200,8 +200,7 @@ git config --global user.email email@email.com</pre>
 </p>
 <hr/>
 <p>
-    <span style="font-size: 18px;">以上仅是我这两天接触的到git的皮毛，却也是受益良多。<span style="font-size: 18px; line-height: 22.5px;">写下这篇“初体验”，不仅是为了巩固这几天学到的内容，也希望在将来，忘了某个命令的我，可以多个解决问题的出口。</span></span>
-</p>
+    <span style="font-size: 18px;">以上仅是我这两天接触的到git的皮毛，却也是受益良多。<span style="font-size: 18px; line-height: 22.5px;">写下这篇“初体验”，不仅是为了巩固这几天学到的内容，也希望在将来，忘了某个命令的我，可以多个解决问题的出口。</span></span>     
 <p>
     <br/>
 </p>
