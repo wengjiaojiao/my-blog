@@ -162,7 +162,7 @@ git config --global user.email email@email.com</pre>
 <p>
     <span style="font-size: 18px;">1.查一下电脑上的SSH目录</span>
 </p>
-<pre class="brush:shell;toolbar: true; auto-links: false;"> ls -al的~/ .ssh</pre>
+<pre class="brush:shell;toolbar: true; auto-links: false;"> ls -al cd~/ .ssh</pre>
 <p>
     <span style="font-size: 18px;"><br/></span>
 </p>
